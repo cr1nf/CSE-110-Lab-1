@@ -1,2 +1,2 @@
 # CSE-110-Lab-1
-My User Page
+John Hermosura's User Page
