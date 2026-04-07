@@ -12,13 +12,10 @@ Hi! Welcome to my User Page
 - I am from San Diego, CA  
 - I like reading, speed-cubing, playing bass, and solving puzzles
 - I also love cats
-
-![little cat](LittleCat.jpg)
-Just look at this little guy
->how adorable
+![little cat](LittleCat.jpg) 
 - My Favorite [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - My most used command in the terminal: `sc delete vgc` and `sc delete vgk`
->because I hate vanguard
+>because I hate vanguard  
 - Some of my favorite [songs](songlist.md)
 
 ### Me as a Programmer
